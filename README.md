@@ -7,14 +7,12 @@ https://itch.io/jam/game-off-2024
 ## Theme: SECRETS
 
 **Noun**
-
 Information or knowledge deliberately kept hidden (for example, family secrets or secret recipes).
 A mystery or unknown fact (for example, the secret to being a 10X developer).
 A concealed or undisclosed fact, often surprising (for example, hidden secrets of a lost civilization).
 Something that gives an advantage when kept confidential (for example, a proprietary middle-out lossless compression algorithm).
 
 **Adjective**
-
 Intended to be mysterious or cryptic (for example, secret code or hidden messages).
 Hidden from ordinary sight or awareness (for example, secret passageways).
 Reserved or exclusive, known only to a select group for example, a secret society).

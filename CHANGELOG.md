@@ -1,6 +1,6 @@
 # Changelog
 
-## yyyy-mm-dd
-- add basic sprites
-- add state charts
-- add main scene
+## 2024-11-04
+- Add palette
+- update readme with jam information
+- add game idea doc

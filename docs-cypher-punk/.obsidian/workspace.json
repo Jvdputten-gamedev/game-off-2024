@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Background Research/notes on art style/Art Style Notes.md",
+                "file": "Game design doc.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Game design doc"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Background Research/notes on art style/Art Style Notes.md",
+                "file": "Game design doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Game design doc"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Background Research/notes on art style/Art Style Notes.md",
+                "file": "Game design doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Game design doc"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Background Research/notes on art style/Art Style Notes.md"
-              }
+                "file": "Game design doc.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Game design doc"
             }
           }
         ]
@@ -148,9 +164,13 @@
   },
   "active": "395021141a812b42",
   "lastOpenFiles": [
+    "Excalidraw/layout.md",
+    "Game design doc.md",
+    "Excalidraw/Drawing 2024-05-20 12.40.03.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-20 12.40.02.excalidraw.md",
+    "Background Research/notes on art style/Art Style Notes.md",
     "Background Research/background/background research.md",
     "Game design template/Feature template/Testing Plan Kanban.md",
-    "Game design template.md",
     "Game design template/Feature template.md",
     "Game design template/Design pillars.md",
     "Game design template/Player motivation and progression/Untitled_drawing_(2).png",
@@ -167,15 +187,11 @@
     "Game design template/Feature template/Testing plan/Concept.md",
     "Game design template/Feature template/Testing plan/Build.md",
     "Game design template/Feature template/Testing plan.md",
-    "Excalidraw/Drawing 2024-05-20 12.40.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-20 12.40.03.excalidraw.md",
     "Excalidraw",
     "Game design template/Characters/Characters/Zagreus.md",
     "Game design template/Characters/Characters/Hades.md",
     "Game design template/Characters/Characters/Achilles.md",
     "Game design template/Characters/Characters.md",
-    "Background Research/notes on art style/Art Style Notes.md",
-    "Background Research/Excalidraw/Empty HPSF diagram.md",
-    "Game design template/Level summaries.md"
+    "Background Research/Excalidraw/Empty HPSF diagram.md"
   ]
 }
